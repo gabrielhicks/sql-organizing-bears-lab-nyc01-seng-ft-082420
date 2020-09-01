@@ -23,7 +23,7 @@ VALUES ("gabe",
         true );
 
 INSERT INTO bears (name, age, gender, color, temperament, alive)
-VALUES (null,
+VALUES (NULL,
         2,
         "F",
         "brown",
